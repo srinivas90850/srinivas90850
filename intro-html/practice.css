@@ -1,0 +1,143 @@
+.search {
+  border-radius: 5px;
+  border-style: solid;
+  padding: 5px 0px 5px 6px;
+  font-size: 12px;
+}
+.searchGogle {
+  border-radius: 5px;
+  border-style: solid;
+  width: 500px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 16px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  margin-top: 20px;
+  margin-left: 70px;
+
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.cat3 {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  object-position: left;
+  border-radius: 25px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.tweet {
+  background-color: #0ea7e8;
+  color: white;
+  /* height: 36px;
+      width: 74px; */
+  padding: 8px 16px; /*top right bottom left if you specify to and right  */
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+.tweet:hover {
+  box-shadow: #0ea7e8;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+.tweetSearch {
+  vertical-align: middle;
+  border: none;
+  font-size: 18px;
+  width: 200px;
+}
+.name-txt,
+.email {
+  display: block;
+  margin-bottom: 5px;
+}
+.discription {
+  width: 160px;
+  font-size: 12px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.yes-btn,
+.no-btn {
+  display: inline-block;
+
+  position: relative;
+}
+.image {
+  margin-left: 250px;
+  display: inline-block;
+  height: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.firstName,
+.lastName {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-bottom: 0px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(200, 200, 200);
+}
+.email {
+  display: block;
+  margin-top: 5px;
+  width: 300px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-bottom: 0px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(200, 200, 200);
+}
+
+.sign-up {
+  width: 220px;
+  margin-top: 5px;
+  border-radius: 5px;
+  border-style: none;
+  color: white;
+  background-color: #3860fe;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: none;
+}
+.req {
+  margin-bottom: 0px;
+}
+.pickup-btn,
+.drop-btn {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 4px;
+  width: 220px;
+  border: none;
+  background-color: rgb(249, 239, 239);
+}
+.req-btn {
+  background-color: black;
+  color: white;
+  border-radius: 2px;
+
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.sch-btn {
+  background-color: rgb(246, 235, 235);
+  color: black;
+
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 2px;
+}

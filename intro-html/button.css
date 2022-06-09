@@ -1,0 +1,167 @@
+* {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.subscribe-btn {
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding: 10px 20px; /*top right bottom left if you specify to and right */
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+  margin-left: 20px;
+  transition: opacity 0.15s;
+  /* position: fixed; */
+  vertical-align: top;
+}
+.subscribe-btn:hover {
+  opacity: 0.8;
+}
+.subscribe-btn:active {
+  opacity: 0.5;
+}
+
+.Join-btn {
+  background-color: white;
+  border-color: rgb(87, 175, 242);
+  color: rgb(12, 155, 233);
+  /* border: none; */
+  /* height: 36px;
+    width: 62px; */
+  padding: 9px 20px; /*top right bottom left if you specify to and right  */
+  border-radius: 2px;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 8px;
+  transition: background-color 0.15s, color 1s;
+}
+.Join-btn:hover {
+  background-color: rgb(12, 155, 233);
+  color: white;
+}
+.Join-btn:active {
+  opacity: 0.7;
+}
+.tweet {
+  background-color: #0ea7e8;
+  color: white;
+  /* height: 36px;
+    width: 74px; */
+  padding: 10px 20px; /*top right bottom left if you specify to and right  */
+  border: none;
+  border-radius: 18px;
+  cursor: pointer;
+  font-size: medium;
+  font-weight: bold;
+  margin-right: 20px;
+}
+.tweet:hover {
+  box-shadow: #0ea7e8;
+}
+.uber {
+  background-color: black;
+  color: white;
+  /* height: 36px;
+    width: 100px; */
+  padding: 12px 15px; /*top right bottom left if you specify to and right  */
+  border-radius: 1px;
+  border: none;
+  transition: opacity 0.15s;
+}
+.uber:hover {
+  opacity: 0.8;
+}
+.amazon {
+  background-color: rgb(255, 230, 0);
+  color: black;
+  border: none;
+  /* height: 36px;
+    width: 150px; */
+  padding: 10px 30px; /*top right bottom left if you specify to and right  */
+  border-radius: 18px;
+  font-weight: lighter;
+  font-size: 15px;
+  margin-left: 8px;
+}
+.amazon:hover {
+  background-color: rgb(245, 205, 3);
+}
+
+.number-btn-one {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+
+  cursor: pointer;
+  transition: ppadding-left 30px, padding-right 30px, 0.15s;
+}
+.number-btn-one:hover {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.number-btn-two {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+
+  cursor: pointer;
+  transition: ppadding-left 30px, padding-right 30px, 0.15s;
+}
+.number-btn-two:hover {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.number-btn-three {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 20px;
+
+  cursor: pointer;
+  transition: ppadding-left 30px, padding-right 30px, 0.15s;
+  position: fixed;
+}
+.number-btn-three:hover {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.bootstrap-getstarted-btn {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 2px;
+  font-size: 12px;
+}
+.bootstrap-download-btn {
+  background-color: white;
+  color: grey;
+  border-color: grey;
+  border-style: solid;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 2px;
+  font-size: 12px;
+  font-weight: bold;
+  border-width: 1px;
+  transition: background-color, colour, 0.15s;
+}
+.bootstrap-download-btn:hover {
+  background-color: grey;
+  color: white;
+}
